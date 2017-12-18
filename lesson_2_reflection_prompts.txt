@@ -24,3 +24,4 @@ a new branch called master containing all the changes
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+sometimes you need human intervention to know which way you want to go with the changes 
